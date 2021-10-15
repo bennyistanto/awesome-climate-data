@@ -8,20 +8,20 @@
 
 **Derived variables:** Reference evapotranspiration (ASCE Penman-Montieth), Runoff, Actual Evapotranspiration, Climate Water Deficit, Soil Moisture, Snow Water Equivalent, Palmer Drought Severity Index, Vapor pressure deficit
 
-aet (Actual Evapotranspiration, monthly total), units = mm
-def (Climate Water Deficit, monthly total), units = mm
-pet (Potential evapotranspiration, monthly total), units = mm
-ppt (Precipitation, monthly total), units = mm
-q (Runoff, monthly total), units = mm
-soil (Soil Moisture, total column - at end of month), units = mm
-srad (Downward surface shortwave radiation), units = W/m2
-swe (Snow water equivalent - at end of month), units = mm
-tmax (Max Temperature, average for month), units = C
-tmin (Min Temperature, average for month), units = C
-vap (Vapor pressure, average for month), units  = kPa
-ws (Wind speed, average for month), units = m/s
-vpd (Vapor Pressure Deficit, average for month), units = kpa
-PDSI (Palmer Drought Severity Index, at end of month), units = unitless
+aet (Actual Evapotranspiration, monthly total), units = mm<br>
+def (Climate Water Deficit, monthly total), units = mm<br>
+pet (Potential evapotranspiration, monthly total), units = mm<br>
+ppt (Precipitation, monthly total), units = mm<br>
+q (Runoff, monthly total), units = mm<br>
+soil (Soil Moisture, total column - at end of month), units = mm<br>
+srad (Downward surface shortwave radiation), units = W/m2<br>
+swe (Snow water equivalent - at end of month), units = mm<br>
+tmax (Max Temperature, average for month), units = C<br>
+tmin (Min Temperature, average for month), units = C<br>
+vap (Vapor pressure, average for month), units  = kPa<br>
+ws (Wind speed, average for month), units = m/s<br>
+vpd (Vapor Pressure Deficit, average for month), units = kpa<br>
+PDSI (Palmer Drought Severity Index, at end of month), units = unitless<br>
 
 ## Repo
 
