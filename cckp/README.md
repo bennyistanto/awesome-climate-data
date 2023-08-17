@@ -36,7 +36,7 @@ The list below is expected to help understand the difficulties above.
 | **Time Period:** |     |
 | Historical: 1985-2014 (center 2000) | `1985-2014` |
 | 2010-2039 (center 2025) | `2010-2039` |
-| 2010-2039 (center 2050) | `2010-2039` |
+| 2035-2064 (center 2050) | `2035-2064` |
 | 2060-2089 (center 2075) | `2060-2089` |
 | 2070-2099 (center 2085) | `2070-2099` |
 | **Calculation:** (Historical Time Period) |     |
@@ -69,12 +69,12 @@ The list below is expected to help understand the difficulties above.
 | Changes in Annual Exceedance Probability (occurrence/year): 25-yr | `faep25yr` |
 | Changes in Annual Exceedance Probability (occurrence/year): 50-yr | `faep50yr` |
 | Changes in Annual Exceedance Probability (occurrence/year): 100-yr | `faep100yr` |
-| Changes in Annual Exceedance Probability (Change factor): 5-yr | `changefactorfaep5yr` |
-| Changes in Annual Exceedance Probability (Change factor): 10-yr | `changefactorfaep10yr` |
-| Changes in Annual Exceedance Probability (Change factor): 20-yr | `changefactorfaep20yr` |
-| FChanges in Annual Exceedance Probability (Change factor): 25-yr | `changefactorfaep25yr` |
-| Changes in Annual Exceedance Probability (Change factor): 50-yr | `changefactorfaep50yr` |
-| Changes in Annual Exceedance Probability (Change factor): 100-yr | `changefactorfaep100yr` |
+| Changes in Annual Exceedance Probability (Change Factor): 5-yr | `changefactorfaep5yr` |
+| Changes in Annual Exceedance Probability (Change Factor): 10-yr | `changefactorfaep10yr` |
+| Changes in Annual Exceedance Probability (Change Factor): 20-yr | `changefactorfaep20yr` |
+| Changes in Annual Exceedance Probability (Change Factor): 25-yr | `changefactorfaep25yr` |
+| Changes in Annual Exceedance Probability (Change Factor): 50-yr | `changefactorfaep50yr` |
+| Changes in Annual Exceedance Probability (Change Factor): 100-yr | `changefactorfaep100yr` |
 | **Percentile:** (Future) |     |
 | Median (50th) | `median` |
 | 90th | `p90` |
@@ -101,3 +101,77 @@ Or
 `faep5yr-rx1day-period-mean_cmip6_period_all-regridded-bct-ssp119-climatology_median_2010-2039.nc`
 
 From the filename, we can see it's: Future Projections of Largest 1-Day Precipitation with 5 year Changes in Annual Exceedance Probability and median percentile for the period 2010-2039 using SSP1-1.9 scenario.
+
+### CMIP6 (Mean Projections)
+
+| **Category** | **Code** |
+| --- | --- |
+| **Type** |     |
+| Climatology | `climatology` |
+| Timeseries (2015-2100) | `timeseries` |
+| **Variable** |     |
+| Essential Climate Variables: Mean-Temperature | `tas` |
+| Essential Climate Variables: Min-Temperature | `tasmin` |
+| Essential Climate Variables: Max-Temperature | `tasmax` |
+| Essential Climate Variables: Precipitation | `pr` |
+| Temperature: Cold Spell Duration Index | `cdsi` |
+| Temperature: Cooling Degree Days (ref-65°F) | `cdd65` |
+| Temperature: Number of Frost Days (Tmin <0°C) | `fd` |
+| Temperature: Days with Heat Index >35°C | `hi35` |
+| Temperature: Days with Heat Index >37°C | `hi37` |
+| Temperature: Days with Heat Index >39°C | `hi39` |
+| Temperature: Heating Degree Days (ref-65°F) | `hdd65` |
+| Temperature: Number of Hot Days (Tmax >35°C) | `hd35` |
+| Temperature: Number of Hot Days (Tmax >40°C) | `hd40` |
+| Temperature: Number of Hot Days (Tmax >42°C) | `hd42` |
+| Temperature: Number of Hot Days (Tmax >45°C) | `hd45` |
+| Temperature: Maximum of Daily Max-Temperature | `txx` |
+| Temperature: Maximum of Daily Min-Temperature | `tnn` |
+| Temperature: Number of Ice Days (Tmax <0°C) | `id` |
+| Temperature: Number of Summer Days (Tmax >25°C) | `sd` |
+| Temperature: Number of Tropical Nights (Tmin >20°C) | `tr` |
+| Temperature: Number of Tropical Nigths (Tmin >26°C) | `tr26` |
+| Temperature: Warm Spell Duration Index | `wsdi` |
+| Precipitation: Annual SPEI Drought Index | `spei12` |
+| Precipitation: Max Number of Consecutive Dry Days | `cdd` |
+| Precipitation: Max Number of Consecutive Wet Days | `cwd` |
+| Precipitation: Days with Precipitation >20mm | `r20mm` |
+| Precipitation: Days with Precipitation >50mm | `r50mm` |
+| Precipitation: Average Largest 1-Day Precipitation | `rx1day` |
+| Precipitation: Average Largest 5-Day Cumulative Precipitation | `rx5day` |
+| Precipitation: Average Largest Monthly Cumulative Precipitation | `rxmonth` |
+| Precipitation: Precipitation Percent Change | `prpercnt` |
+| Precipitation: Precipitation amount during wettest days | `r95ptot` |
+| Additional Variables: Growing Season Length | `gsl` |
+| Additional Variables: Relative Humidity | `hurs` |
+| **Time Period:** (Climatology) |     |
+| Historical Reference Period, 1995-2014 | `1995-2014` |
+| 2020-2039 | `2020-2039` |
+| 2040-2059 | `2040-2059` |
+| 2060-2079 | `2060-2079` |
+| 2080-2099 | `2080-2099` |
+| **Aggregation:** (Climatology) |     |
+| Annual | `annual` |
+| Monthly | `monthly` |
+| Seasonal | `seasonal` |
+| **Aggregation:** (Timeseries) |     |
+| Annual | `annual` |
+| **Calculation:** (Climatology) |     |
+| Mean | `mean` |
+| Anomaly (from Reference Period, 1995-2014) | `anomaly` |
+| **Percentile:** |     |
+| Median (50th) | `median` |
+| 90th | `p90` |
+| 10th | `p10` |
+| **Scenario:** |     |
+| SSP1-1.9 | `ssp119` |
+| SSP1-2.6 | `ssp126` |
+| SSP2-4.5 | `ssp245` |
+| SSP3-7.0 | `ssp370` |
+| SSP5-8.5 | `ssp585` |
+| **Model:** |     |
+| Multi-Model Ensemble |     |
+
+
+
+
