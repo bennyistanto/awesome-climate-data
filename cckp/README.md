@@ -88,19 +88,6 @@ The list below is expected to help understand the difficulties above.
 | **Model:** |     |
 | Multi-Model Ensemble |     |
 
-**Example Files**
-
-In the S3 bucket `extremes`, you will find file with name:
-
-`returnlevel5yr-rx1day-period-mean_cmip6_period_all-regridded-bct-historical-climatology_median_1985-2014.nc`
-
-From the filename, we can see it's: Historical Largest 1-Day Precipitation with 5 year Return Level for the period 1985-2014.
-
-Or
-
-`faep5yr-rx1day-period-mean_cmip6_period_all-regridded-bct-ssp119-climatology_median_2010-2039.nc`
-
-From the filename, we can see it's: Future Projections of Largest 1-Day Precipitation with 5 year Changes in Annual Exceedance Probability and median percentile for the period 2010-2039 using SSP1-1.9 scenario.
 
 ### CMIP6 (Mean Projections)
 
@@ -114,7 +101,7 @@ From the filename, we can see it's: Future Projections of Largest 1-Day Precipit
 | Essential Climate Variables: Min-Temperature | `tasmin` |
 | Essential Climate Variables: Max-Temperature | `tasmax` |
 | Essential Climate Variables: Precipitation | `pr` |
-| Temperature: Cold Spell Duration Index | `cdsi` |
+| Temperature: Cold Spell Duration Index | `csdi` |
 | Temperature: Cooling Degree Days (ref-65°F) | `cdd65` |
 | Temperature: Number of Frost Days (Tmin <0°C) | `fd` |
 | Temperature: Days with Heat Index >35°C | `hi35` |
@@ -173,5 +160,20 @@ From the filename, we can see it's: Future Projections of Largest 1-Day Precipit
 | Multi-Model Ensemble |     |
 
 
+### Example Files
 
+In the S3 bucket `cmip6_extremes`, you will find file with name:
 
+`returnlevel5yr-rx1day-period-mean_cmip6_period_all-regridded-bct-historical-climatology_median_1985-2014.nc`
+
+From the filename, we can see it's: 
+
+Historical Largest 1-Day Precipitation, with 5 year Return Level, for the period 1985-2014.
+
+Or
+
+`faep5yr-rx1day-period-mean_cmip6_period_all-regridded-bct-ssp119-climatology_median_2010-2039.nc`
+
+From the filename, we can see it's: 
+
+Future Projections of Largest 1-Day Precipitation, with 5 year Changes in Annual Exceedance Probability, and median percentile, for the period 2010-2039, using SSP1-1.9 scenario.
