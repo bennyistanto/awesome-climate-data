@@ -29,6 +29,6 @@ This repo provide links for individual data that extracted and categorized from 
 
 ## How to use?
 
-Make sure you already have `wget` in your machine. Download the `*.sh` files, in your Terminal type and run `sh data_precipitation.sh`
+Make sure you already have `wget` in your machine. Download the `*.txt` files, in your Terminal type and run `wget -c -i data_precipitation.txt`
 
 If you are in Windows, download `wget` from [http://gnuwin32.sourceforge.net/packages/wget.htm](http://gnuwin32.sourceforge.net/packages/wget.htm) and `git` for Windows from [https://gitforwindows.org](https://gitforwindows.org).

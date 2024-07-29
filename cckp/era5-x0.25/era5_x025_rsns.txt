@@ -1,0 +1,3 @@
+https://wbg-cckp.s3.amazonaws.com/data/era5-x0.25/rsns/era5-x0.25-historical/timeseries-rsns-annual-mean_era5-x0.25_era5-x0.25-historical_timeseries_mean_1950-2022.nc
+https://wbg-cckp.s3.amazonaws.com/data/era5-x0.25/rsns/era5-x0.25-historical/timeseries-rsns-monthly-mean_era5-x0.25_era5-x0.25-historical_timeseries_mean_1950-2022.nc
+https://wbg-cckp.s3.amazonaws.com/data/era5-x0.25/rsns/era5-x0.25-historical/timeseries-rsns-seasonal-mean_era5-x0.25_era5-x0.25-historical_timeseries_mean_1950-2022.nc

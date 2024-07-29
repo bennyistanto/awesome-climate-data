@@ -1,0 +1,7 @@
+https://wbg-cckp.s3.amazonaws.com/data/era5-x0.25/rxmonth/era5-x0.25-historical/climatology-rxmonth-annual-max_era5-x0.25_era5-x0.25-historical_climatology_mean_1995-2014.nc
+https://wbg-cckp.s3.amazonaws.com/data/era5-x0.25/rxmonth/era5-x0.25-historical/climatology-rxmonth-annual-mean_era5-x0.25_era5-x0.25-historical_climatology_mean_1995-2014.nc
+https://wbg-cckp.s3.amazonaws.com/data/era5-x0.25/rxmonth/era5-x0.25-historical/climatology-rxmonth-period-max_era5-x0.25_era5-x0.25-historical_climatology_mean_1985-2014.nc
+https://wbg-cckp.s3.amazonaws.com/data/era5-x0.25/rxmonth/era5-x0.25-historical/natvarhigh-rxmonth-annual-mean_era5-x0.25_era5-x0.25-historical_climatology_mean_1995-2014.nc
+https://wbg-cckp.s3.amazonaws.com/data/era5-x0.25/rxmonth/era5-x0.25-historical/natvarlow-rxmonth-annual-mean_era5-x0.25_era5-x0.25-historical_climatology_mean_1995-2014.nc
+https://wbg-cckp.s3.amazonaws.com/data/era5-x0.25/rxmonth/era5-x0.25-historical/natvar-rxmonth-annual-mean_era5-x0.25_era5-x0.25-historical_climatology_mean_1995-2014.nc
+https://wbg-cckp.s3.amazonaws.com/data/era5-x0.25/rxmonth/era5-x0.25-historical/timeseries-rxmonth-annual-mean_era5-x0.25_era5-x0.25-historical_timeseries_mean_1950-2022.nc

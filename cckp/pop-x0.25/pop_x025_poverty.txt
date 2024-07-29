@@ -1,0 +1,6 @@
+https://wbg-cckp.s3.amazonaws.com/data/pop-x0.25/pov190/gsap-2-historical/climatology-pov190-annual-mean_pop-x0.25_gsap-2-historical_climatology_mean_1995-2014.nc
+https://wbg-cckp.s3.amazonaws.com/data/pop-x0.25/pov190cat/gsap-2-historical/climatology-pov190cat-annual-mean_pop-x0.25_gsap-2-historical_climatology_mean_1995-2014.nc
+https://wbg-cckp.s3.amazonaws.com/data/pop-x0.25/pov320/gsap-2-historical/climatology-pov320-annual-mean_pop-x0.25_gsap-2-historical_climatology_mean_1995-2014.nc
+https://wbg-cckp.s3.amazonaws.com/data/pop-x0.25/pov320cat/gsap-2-historical/climatology-pov320cat-annual-mean_pop-x0.25_gsap-2-historical_climatology_mean_1995-2014.nc
+https://wbg-cckp.s3.amazonaws.com/data/pop-x0.25/pov550/gsap-2-historical/climatology-pov550-annual-mean_pop-x0.25_gsap-2-historical_climatology_mean_1995-2014.nc
+https://wbg-cckp.s3.amazonaws.com/data/pop-x0.25/pov550cat/gsap-2-historical/climatology-pov550cat-annual-mean_pop-x0.25_gsap-2-historical_climatology_mean_1995-2014.nc

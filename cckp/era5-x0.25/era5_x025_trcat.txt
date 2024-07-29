@@ -1,0 +1,6 @@
+https://wbg-cckp.s3.amazonaws.com/data/era5-x0.25/trcat/era5-x0.25-historical/climatology-trcat-annual-mean_era5-x0.25_era5-x0.25-historical_climatology_mean_1986-2005.nc
+https://wbg-cckp.s3.amazonaws.com/data/era5-x0.25/trcat/era5-x0.25-historical/climatology-trcat-annual-mean_era5-x0.25_era5-x0.25-historical_climatology_mean_1991-2020.nc
+https://wbg-cckp.s3.amazonaws.com/data/era5-x0.25/trcat/era5-x0.25-historical/climatology-trcat-annual-mean_era5-x0.25_era5-x0.25-historical_climatology_mean_1995-2014.nc
+https://wbg-cckp.s3.amazonaws.com/data/era5-x0.25/trcat/era5-x0.25-historical/climatology-trcat-monthly-mean_era5-x0.25_era5-x0.25-historical_climatology_mean_1986-2005.nc
+https://wbg-cckp.s3.amazonaws.com/data/era5-x0.25/trcat/era5-x0.25-historical/climatology-trcat-monthly-mean_era5-x0.25_era5-x0.25-historical_climatology_mean_1991-2020.nc
+https://wbg-cckp.s3.amazonaws.com/data/era5-x0.25/trcat/era5-x0.25-historical/climatology-trcat-monthly-mean_era5-x0.25_era5-x0.25-historical_climatology_mean_1995-2014.nc

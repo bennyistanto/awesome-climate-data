@@ -1,0 +1,10 @@
+https://wbg-cckp.s3.amazonaws.com/data/cmip6-x0.25/r95ptot/ensemble-all-historical/climatology-r95ptot-annual-mean_cmip6-x0.25_ensemble-all-historical_climatology_median_1995-2014.nc
+https://wbg-cckp.s3.amazonaws.com/data/cmip6-x0.25/r95ptot/ensemble-all-historical/climatology-r95ptot-annual-mean_cmip6-x0.25_ensemble-all-historical_climatology_p10_1995-2014.nc
+https://wbg-cckp.s3.amazonaws.com/data/cmip6-x0.25/r95ptot/ensemble-all-historical/climatology-r95ptot-annual-mean_cmip6-x0.25_ensemble-all-historical_climatology_p90_1995-2014.nc
+https://wbg-cckp.s3.amazonaws.com/data/cmip6-x0.25/r95ptot/ensemble-all-historical/climatology-r95ptot-monthly-mean_cmip6-x0.25_ensemble-all-historical_climatology_median_1995-2014.nc
+https://wbg-cckp.s3.amazonaws.com/data/cmip6-x0.25/r95ptot/ensemble-all-historical/climatology-r95ptot-monthly-mean_cmip6-x0.25_ensemble-all-historical_climatology_p10_1995-2014.nc
+https://wbg-cckp.s3.amazonaws.com/data/cmip6-x0.25/r95ptot/ensemble-all-historical/climatology-r95ptot-monthly-mean_cmip6-x0.25_ensemble-all-historical_climatology_p90_1995-2014.nc
+https://wbg-cckp.s3.amazonaws.com/data/cmip6-x0.25/r95ptot/ensemble-all-historical/climatology-r95ptot-seasonal-mean_cmip6-x0.25_ensemble-all-historical_climatology_median_1995-2014.nc
+https://wbg-cckp.s3.amazonaws.com/data/cmip6-x0.25/r95ptot/ensemble-all-historical/climatology-r95ptot-seasonal-mean_cmip6-x0.25_ensemble-all-historical_climatology_p10_1995-2014.nc
+https://wbg-cckp.s3.amazonaws.com/data/cmip6-x0.25/r95ptot/ensemble-all-historical/climatology-r95ptot-seasonal-mean_cmip6-x0.25_ensemble-all-historical_climatology_p90_1995-2014.nc
+https://wbg-cckp.s3.amazonaws.com/data/cmip6-x0.25/r95ptot/ensemble-all-historical/timeseries-r95ptot-annual-mean_cmip6-x0.25_ensemble-all-historical_timeseries_median_1950-2014.nc

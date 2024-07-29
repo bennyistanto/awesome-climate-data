@@ -1,0 +1,3 @@
+http://thredds.northwestknowledge.net:8080/thredds/fileServer/TERRACLIMATE_ALL/layers/terraclim_dem.nc
+http://thredds.northwestknowledge.net:8080/thredds/fileServer/TERRACLIMATE_ALL/layers/MODIS_landcover_2017.nc
+http://thredds.northwestknowledge.net:8080/thredds/fileServer/TERRACLIMATE_ALL/layers/HFP2009_InTerraClimateGrids.nc
